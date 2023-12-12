@@ -13,5 +13,7 @@ Efecto de degradado dinámico: El color de fondo de la página cambia según la 
   
 Para ver el proyecto en acción, visita este enlace:
 
+https://juanmpdev.github.io/mouse-follower-react/
+
 
 
