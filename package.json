@@ -10,8 +10,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "homepage": "https://juanmpdev.github.io/mouse-follower/"
-    
+    "homepage": "https://juanmpdev.github.io/mouse-follower-react/"
   },
   "dependencies": {
     "react": "^18.2.0",
